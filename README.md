@@ -29,4 +29,7 @@ A agenda funciona inteiramente no terminal, solicitando entradas do usuário via
 ## 🚀 Como Executar
 
 > **Pré-requisito:** Python 3.x instalado no sistema.
+## Colaboradoras:
+* [Agnes Letícia](https://github.com/AgnesRibeiro)
+* [Wedja Souza](https://github.com/WedjaSousa)
 
